@@ -1,0 +1,16 @@
+extends ../bower_components/jade-bootstrap/_bootstrap.jade
+
+block body
+  div.container
+    div.text-center
+      h1 JSON to CSV Exporter - Large JSON dataset to CSV (Demo)
+      p Welcome, Are you ready to get started? Great!
+
+      div
+        p
+          a.btn.btn-primary(href="/export/dummyData") Export some dummy Data
+        p
+          a.btn.btn-primary(href="/export/jsonFileData") Export from JSON file
+        p
+          a.btn.btn-primary(href="/export/dbData") Export collection from mongodb
+  

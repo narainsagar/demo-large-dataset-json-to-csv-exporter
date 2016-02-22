@@ -1,0 +1,10 @@
+{
+  "name": "demo-json-to-csv-exporter",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "2.1.4",
+    "jade-bootstrap": "*"
+  }
+}

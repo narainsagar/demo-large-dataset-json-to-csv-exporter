@@ -1,0 +1,486 @@
+[
+	{
+		"_id" : "56b993652232d6a5413ee0db",
+		"asin" : "1582364419",
+		"searchRank" : 1,
+		"name" : "Star Wars Customizable Card Game Tatooine Booster Box",
+		"createdAt" : "2016-02-09T07:21:09.285Z",
+		"updatedAt" : "2016-02-09T07:27:23.383Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 79.63,
+		"ranks" : [
+			{
+				"number" : 316629,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0dc",
+		"asin" : "B001O803U4",
+		"searchRank" : 2,
+		"name" : "Star Wars Galaxy Deluxe Trading Card Millennium Falcon Factory Set Sealed",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:25:25.867Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : null,
+		"ranks" : [
+			{
+				"number" : 457865,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "041116004292"
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0e4",
+		"asin" : "B00TIXPONS",
+		"searchRank" : 2,
+		"name" : "Star Wars Star Wars Masterwork Trading Card MINI Box",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:28:06.397Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 98.49,
+		"ranks" : [
+			{
+				"number" : 714518,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "887521027774"
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0dd",
+		"asin" : "B000C2F12I",
+		"searchRank" : 3,
+		"name" : "Star Wars Galaxy Deluxe Trading Cards Box -36 Count",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:27:33.685Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 49.99,
+		"ranks" : [
+			{
+				"number" : 325888,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "041116104039"
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0de",
+		"asin" : "B007K72LQ2",
+		"searchRank" : 4,
+		"name" : "Star Wars Widevision Factory Sealed Trading Card Hobby Box 24 Packs",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:25:38.846Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 70.52,
+		"ranks" : [
+			{
+				"number" : 2300142,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0df",
+		"asin" : "B0078ZDA8O",
+		"searchRank" : 5,
+		"name" : "Star Wars Widevision Trading Card Base Set",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:27:48.489Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : null,
+		"ranks" : [
+			{
+				"number" : 2250335,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0e5",
+		"asin" : "B002IKZ10E",
+		"searchRank" : 5,
+		"name" : "Star Wars Vintage Trading Cards 1977 - Original Blue Set Complete 1- 66",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:28:27.089Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : null,
+		"ranks" : [
+			{
+				"number" : 315650,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0e6",
+		"asin" : "B001B4PIQ0",
+		"searchRank" : 6,
+		"name" : "Star Wars Pocketmodel Force Unleashed Collector's Tin",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:28:42.697Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 49.99,
+		"ranks" : [
+			{
+				"number" : 414004,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "807652036810"
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0e0",
+		"asin" : "B007K73KBC",
+		"searchRank" : 6,
+		"name" : "Star Wars Shadows Of The Empire Factory Sealed Trading Card Hobby Box 36 Packs",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:25:51.235Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 79.99,
+		"ranks" : [
+			{
+				"number" : 1643299,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0e7",
+		"asin" : "B002IL88EY",
+		"searchRank" : 7,
+		"name" : "Star Wars Vintage Galaxy Trading Cards - Original Complete 3Rd Series Set",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:29:01.955Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : null,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0e1",
+		"asin" : "B000QTZMSU",
+		"searchRank" : 7,
+		"name" : "Star Wars Decipher CCG: Jabba's Palace Sealed Deck 20 Premium Cards + 6 Packs",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:26:14.459Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 49.75,
+		"ranks" : [
+			{
+				"number" : 671064,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "045748102753"
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0e8",
+		"asin" : "B00TYUFK0W",
+		"searchRank" : 8,
+		"name" : "Star Wars Rebels 2015 Star Wars Rebels Trading Card Box",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:29:19.168Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 99.99,
+		"ranks" : [
+			{
+				"number" : 477939,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "887521029273"
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0e2",
+		"asin" : "B00121HX3I",
+		"searchRank" : 8,
+		"name" : "Family Guy Episode IV: A New Hope Trading Cards Box of 24",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:26:33.697Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 39.99,
+		"ranks" : [
+			{
+				"number" : 753898,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "088472138117"
+	},
+	{
+		"_id" : "56b993652232d6a5413ee0e3",
+		"asin" : "B000W0DG4A",
+		"searchRank" : 9,
+		"name" : "WA Civil War Chronicles #1 Signed by Michael Turner CGC Signature 9.8",
+		"createdAt" : "2016-02-09T07:21:09.286Z",
+		"updatedAt" : "2016-02-09T07:26:49.634Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4109",
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 255.95,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0e9",
+		"asin" : "B00290XU6U",
+		"searchRank" : 10,
+		"name" : "KENNER STAR WARS 1996 POTF2 RED CARD LUKE SKYWALKER JEDI WITH BROWN VEST VARIANT MOC",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:29:35.582Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 34.99,
+		"ranks" : [
+			{
+				"number" : 2356661,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0ea",
+		"asin" : "B002IL8524",
+		"searchRank" : 12,
+		"name" : "Star Wars Vintage Galaxy Trading Cards - Original Complete 2Nd Set",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:23:00.638Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 48.95,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0eb",
+		"asin" : "B003Q5SQ48",
+		"searchRank" : 13,
+		"name" : "MLB Star Wars Clone Wars Rise of the Bounty Hunters Trading Cards",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:23:19.695Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 39.95,
+		"ranks" : [
+			{
+				"number" : 1186386,
+				"category" : "Sports & Outdoors"
+			}
+		],
+		"upc" : "041116103100"
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0ec",
+		"asin" : "B01AOMC2VI",
+		"searchRank" : 14,
+		"name" : "Vintage 1978 Star Wars Big G Cereals Collector Card Set",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:23:33.976Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 44.99,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0ed",
+		"asin" : "B000NO4Q0I",
+		"searchRank" : 15,
+		"name" : "Star Wars Young Jedi Collectible Card Game The Jedi Council by Decipher",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:23:46.688Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 34.79,
+		"ranks" : [
+			{
+				"number" : 669631,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "045748135614"
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0ee",
+		"asin" : "B00KCR8CA6",
+		"searchRank" : 17,
+		"name" : "Star Wars Chrome Perspectives Trading Card Box [24 Packs]",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:23:58.236Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : null,
+		"ranks" : [
+			{
+				"number" : 751732,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "887521018482"
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0ef",
+		"asin" : "B001NK6NFW",
+		"searchRank" : 19,
+		"name" : "Star Wars GREEN CARD with HOLO DEATH STAR GUNNER",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:24:14.120Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 423.48,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0f0",
+		"asin" : "B00154HVNE",
+		"searchRank" : 20,
+		"name" : "Star Trek IV The Voyage Home Trading Cards Box - 48 Count",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:24:31.515Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 79.95,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0f1",
+		"asin" : "B00EQ5BGW6",
+		"searchRank" : 21,
+		"name" : "Marvel Heroclix Wolverine and the X-Men #048 Warstar with Card",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:25:04.741Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 34.95,
+		"ranks" : [
+			{
+				"number" : 1335471,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : ""
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0f2",
+		"asin" : "B002GZTLRU",
+		"searchRank" : 23,
+		"name" : "Ultra Pro Card Game Supplies Nesting Deck Vault",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:25:15.473Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : null,
+		"ranks" : [
+			{
+				"number" : 537743,
+				"category" : "Toys & Games"
+			}
+		],
+		"upc" : "074427823054"
+	},
+	{
+		"_id" : "56b993752232d6a5413ee0f3",
+		"asin" : "B00XIDQDKW",
+		"searchRank" : 25,
+		"name" : "Ultra Pro 3-Ring Collectors Album Black + 100 9-Pocket Platinum Pages - Magic: The Gathering - Yu-Gi-Oh! by Ultra...",
+		"createdAt" : "2016-02-09T07:21:25.680Z",
+		"updatedAt" : "2016-02-09T07:27:07.316Z",
+		"linkIds" : [
+			"25b1071a9e908806338c4108"
+		],
+		"price" : 123.82,
+		"ranks" : [
+			{
+				"number" : null,
+				"category" : null
+			}
+		],
+		"upc" : "791067751003"
+	}
+]
